@@ -13,3 +13,5 @@ mobx_codegen:
 
 ### build_runner: 
 This package helps to run scripts, saves you from having to write scripts manually to create a .g file in this mobx or something.
+####This command:
+flutter packages pub run build_runner watch
